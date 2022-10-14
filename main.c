@@ -16,5 +16,4 @@ int main()
     remplirMatrice(Matrice, N, M);
     afficherMatrice(Mat);
     return 0;
-    printf("test");
 }
