@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "tp3.h"
+test
 
 
 // Fonction qui permet de cr�er un �lement d'une liste cha�n�e
